@@ -9,8 +9,8 @@ values:
       wild form, and traditionally was grown commercially under other trees that
       provided shade. The forest-like structure of shade coffee farms provides
       habitat for a great number of migratory and resident species.
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
+  - heading: Environment
+    imageUrl: /img/seed-malawi-tree-planting-environement.jpg
     text: >
       Single-origin coffee is coffee grown within a single known geographic
       origin. Sometimes, this is a single farm or a specific collection of beans
