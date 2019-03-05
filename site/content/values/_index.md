@@ -16,8 +16,8 @@ values:
       origin. Sometimes, this is a single farm or a specific collection of beans
       from a single country. The name of the coffee is then usually the place it
       was grown to whatever degree available.
-  - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: Women
+    imageUrl: /img/seed-malawi-education-women.jpg
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
       understanding of ecosystem services, the study of relationships between
