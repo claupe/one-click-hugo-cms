@@ -3,7 +3,7 @@ title: Values
 image: /img/img_1384-1-.jpg
 values:
   - heading: Education
-    imageUrl: /img/seed-malawi-students-education-1-.png
+    imageUrl: /img/seed-malawi-students-education.jpg
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
