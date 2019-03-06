@@ -21,24 +21,18 @@ blurb:
 intro:
   heading: The story
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    It all started with one Canadian guy going to Malawi for an Engineers
+    Without Borders internship. He kept in touch with the community that hosted
+    him and started supporting it through an educational fund. Support was
+    recently diversified to purchase trees through the The Forest Landscape
+    Restoration Strategy. 
 products:
-  - image: /img/seed-malawi-students-education.jpg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/seed-malawi-students-education-1-.png
+    text: EDUCATION
+  - image: /img/seed-malawi-forestry-tree-planting.jpg
+    text: ENVIRONMENT
+  - image: /img/seed-malawi-coffee-red-beans.jpg
+    text: COFFEE
 values:
   heading: Our values
   text: >-
