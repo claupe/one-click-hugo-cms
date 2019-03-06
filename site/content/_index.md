@@ -25,7 +25,8 @@ intro:
     Without Borders internship. He kept in touch with the community that hosted
     him and started supporting it through an educational fund. Support was
     recently diversified to purchase trees through the The Forest Landscape
-    Restoration Strategy. 
+    Restoration Strategy. This year, Seed Malawi is sharing coffee from the
+    Mzuzu hills to foreign markets as an effort to bring the 
 products:
   - image: /img/seed-malawi-students-education-1-.png
     text: EDUCATION
